@@ -14,8 +14,8 @@ on:
     branches: [ "main" ]
 
 env:
-  DOCKER_IMAGE: springbootnextjs
-  DOCKER_TAG: 0.2
+  DOCKER_IMAGE: boot-kube
+  DOCKER_TAG: 0.3
 
 jobs:
   build:
